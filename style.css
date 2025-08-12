@@ -1,0 +1,13 @@
+
+
+.parent {
+    display: block;
+    overflow: hidden;
+}
+
+.child {
+    display: block;
+    transform: translate(0, 0%);
+    
+}
+
