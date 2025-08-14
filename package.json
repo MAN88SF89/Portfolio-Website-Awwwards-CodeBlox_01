@@ -1,0 +1,20 @@
+{
+  "name": "graphic-design-portfolio",
+  "version": "1.0.0",
+  "description": "A modern graphic design portfolio website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server . -p 3000 -o",
+    "start": "http-server . -p 3000"
+  },
+  "keywords": [
+    "portfolio",
+    "graphic-design",
+    "website"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
